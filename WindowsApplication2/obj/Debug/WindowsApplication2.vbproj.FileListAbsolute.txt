@@ -1,0 +1,33 @@
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\masterpc\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\masterpc\Desktop\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

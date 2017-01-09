@@ -1,0 +1,11 @@
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\PC COMPORT.vbprojResolveAssemblyReference.cache
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\PC COMPORT.vbproj.GenerateResource.Cache
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\Spectr.exe.config
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\Spectr.exe
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\Spectr.pdb
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\bin\Debug\Spectr.xml
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.Form1.resources
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.Resources.resources
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.exe
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.xml
+D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.pdb
