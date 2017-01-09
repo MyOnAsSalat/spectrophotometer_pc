@@ -9,3 +9,7 @@ D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\D
 D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.exe
 D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.xml
 D:\Dropbox\@Projects\Спектрофотометр\pc\WindowsApplication2\obj\Debug\Spectr.pdb
+D:\Dropbox\@Projects\SPM\pc\WindowsApplication2\bin\Debug\Spectr.exe.config
+D:\Dropbox\@Projects\SPM\pc\WindowsApplication2\obj\Debug\Spectr.exe
+D:\Dropbox\@Projects\SPM\pc\WindowsApplication2\obj\Debug\Spectr.xml
+D:\Dropbox\@Projects\SPM\pc\WindowsApplication2\obj\Debug\Spectr.pdb
