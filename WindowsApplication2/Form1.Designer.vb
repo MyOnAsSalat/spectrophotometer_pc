@@ -23,9 +23,9 @@ Partial Class Form1
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
-        Dim ChartArea8 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
-        Dim Legend8 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
-        Dim Series8 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
+        Dim ChartArea1 As System.Windows.Forms.DataVisualization.Charting.ChartArea = New System.Windows.Forms.DataVisualization.Charting.ChartArea()
+        Dim Legend1 As System.Windows.Forms.DataVisualization.Charting.Legend = New System.Windows.Forms.DataVisualization.Charting.Legend()
+        Dim Series1 As System.Windows.Forms.DataVisualization.Charting.Series = New System.Windows.Forms.DataVisualization.Charting.Series()
         Me.TB2 = New System.Windows.Forms.TextBox()
         Me.SP = New System.IO.Ports.SerialPort(Me.components)
         Me.TB1 = New System.Windows.Forms.TextBox()
@@ -74,18 +74,18 @@ Partial Class Form1
         '
         'c
         '
-        ChartArea8.Name = "ChartArea1"
-        Me.c.ChartAreas.Add(ChartArea8)
-        Legend8.Name = "Legend1"
-        Me.c.Legends.Add(Legend8)
+        ChartArea1.Name = "ChartArea1"
+        Me.c.ChartAreas.Add(ChartArea1)
+        Legend1.Name = "Legend1"
+        Me.c.Legends.Add(Legend1)
         Me.c.Location = New System.Drawing.Point(269, 51)
         Me.c.Margin = New System.Windows.Forms.Padding(2)
         Me.c.Name = "c"
-        Series8.ChartArea = "ChartArea1"
-        Series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
-        Series8.Legend = "Legend1"
-        Series8.Name = "graph"
-        Me.c.Series.Add(Series8)
+        Series1.ChartArea = "ChartArea1"
+        Series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line
+        Series1.Legend = "Legend1"
+        Series1.Name = "graph"
+        Me.c.Series.Add(Series1)
         Me.c.Size = New System.Drawing.Size(558, 351)
         Me.c.TabIndex = 6
         Me.c.Text = "Chart1"
@@ -124,7 +124,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(831, 409)
+        Me.ClientSize = New System.Drawing.Size(833, 408)
         Me.Controls.Add(Me.save)
         Me.Controls.Add(Me.st)
         Me.Controls.Add(Me.start)
